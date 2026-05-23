@@ -95,5 +95,7 @@ Analyzed how customer tenure impacts retention behavior.
 
 ## Author
 **Syed Sameena**
+
 Data Science & Analytics Intern  
+
 Future Interns
