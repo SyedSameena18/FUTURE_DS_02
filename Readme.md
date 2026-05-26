@@ -21,6 +21,10 @@ The analysis helps businesses understand churn patterns and make data-driven dec
 - Google Colab
 - GitHub
 
+## Dataset Source
+
+- Telco Customer Churn Dataset:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Dataset Information
 The dataset contains telecom customer information including:
